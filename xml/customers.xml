@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>1848</Id>
+    <Name>שרה</Name>
+    <Address>לוין</Address>
+    <Telephone>15478</Telephone>
+  </Customer>
+  <Customer>
+    <Id>15468</Id>
+    <Name>רות</Name>
+    <Address>בן דוד</Address>
+    <Telephone>048855</Telephone>
+  </Customer>
+  <Customer>
+    <Id>6658788</Id>
+    <Name>אליהו</Name>
+    <Address>סגל</Address>
+    <Telephone>0878788</Telephone>
+  </Customer>
+  <Customer>
+    <Id>123456</Id>
+    <Name>משה כהן</Name>
+    <Address>שאגת אריה 15</Address>
+    <Telephone>054877876</Telephone>
+  </Customer>
+  <Customer>
+    <Id>321654</Id>
+    <Name>משה לוי</Name>
+    <Address>שאגת אריה 15</Address>
+    <Telephone>054877876</Telephone>
+  </Customer>
+</ArrayOfCustomer>
